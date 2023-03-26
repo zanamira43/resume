@@ -1,0 +1,4 @@
+<template>
+    <NavigationNameAvatar />
+    <NavigationToggle />
+</template> 
